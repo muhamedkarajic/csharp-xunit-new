@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGreatMathLibrary", "TestGreatMathLibrary\TestGreatMathLibrary.csproj", "{686AE96E-A098-4A92-B400-1BAAFD3E675E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatMathLibrary", "GreatMathLibrary\GreatMathLibrary.csproj", "{12D2EC18-EE38-47F7-B113-26216AEC9977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686AE96E-A098-4A92-B400-1BAAFD3E675E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686AE96E-A098-4A92-B400-1BAAFD3E675E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686AE96E-A098-4A92-B400-1BAAFD3E675E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686AE96E-A098-4A92-B400-1BAAFD3E675E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D2EC18-EE38-47F7-B113-26216AEC9977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D2EC18-EE38-47F7-B113-26216AEC9977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D2EC18-EE38-47F7-B113-26216AEC9977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D2EC18-EE38-47F7-B113-26216AEC9977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832158E1-85B1-4CB7-97FF-E8D4430C265B}
+	EndGlobalSection
+EndGlobal

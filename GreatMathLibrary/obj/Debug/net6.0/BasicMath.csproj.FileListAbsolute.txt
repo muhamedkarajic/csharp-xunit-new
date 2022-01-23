@@ -1,0 +1,11 @@
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\bin\Debug\net6.0\BasicMath.deps.json
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\bin\Debug\net6.0\BasicMath.dll
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\bin\Debug\net6.0\ref\BasicMath.dll
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\bin\Debug\net6.0\BasicMath.pdb
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\obj\Debug\net6.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfoInputs.cache
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\obj\Debug\net6.0\BasicMath.AssemblyInfo.cs
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\obj\Debug\net6.0\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\obj\Debug\net6.0\BasicMath.dll
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\obj\Debug\net6.0\ref\BasicMath.dll
+C:\Users\Administrator\GitHub\csharp-playground\BasicMath\obj\Debug\net6.0\BasicMath.pdb
